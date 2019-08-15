@@ -1,0 +1,4 @@
+RESOLUSI PERTAMA
+- Konsisten untuk belajar java
+- Membuat suatu project untuk lihat seberapa paham java
+- Project besar
