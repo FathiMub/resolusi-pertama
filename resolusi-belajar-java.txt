@@ -5,3 +5,4 @@ RENCANA BELAJAR JAVA
   * coba pelajari project orang
 - Buat ulang project dengan fitur sendiri
 - Istiqomah belajar
+- Jangan sombong
