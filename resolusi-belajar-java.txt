@@ -4,4 +4,5 @@ RENCANA BELAJAR JAVA
   * Paham logika java
   * coba pelajari project orang
 - Buat ulang project dengan fitur sendiri
+- Belajar dari project sederhana terlebih dahulu
 - Istiqomah belajar
